@@ -1,6 +1,6 @@
 ## SDKMAN! Gradle Plugin
 
-[![Plugin Portal](https://img.shields.io/maven-metadata/v?label=Plugin&metadataUrl=https://plugins.gradle.org/m2/gradle/plugin/com/athaydes/gradle/sdkman-gradle-plugin/maven-metadata.xml)](https://plugins.gradle.org/plugin/de.ochmanski.sdkman)
+[![Plugin Portal](https://img.shields.io/maven-metadata/v?label=Plugin&metadataUrl=https://plugins.gradle.org/m2/gradle/plugin/de/ochmanski/gradle/sdkman-gradle-plugin/maven-metadata.xml)](https://plugins.gradle.org/plugin/de.ochmanski.sdkman)
 
 This plugin makes sure that [Gradle](https://gradle.org) is using a specific JDK, provided by [SDKMAN!](https://sdkman.io),
 to build your project.
