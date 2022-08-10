@@ -4,8 +4,9 @@ plugins {
 //    id "de.ochmanski.sdkman" version "0.0.2"
 }
 
-group = 'de.ochmanski.gradle'
-description = 'A Gradle Plugin that enforces a specific SDKMAN! JVM is used by Gradle'
+group 'de.ochmanski.gradle'
+description 'A Gradle Plugin that enforces a specific SDKMAN! JVM is used by Gradle'
+version '0.0.2'
 
 sourceCompatibility = JavaVersion.VERSION_11
 targetCompatibility = JavaVersion.VERSION_11
