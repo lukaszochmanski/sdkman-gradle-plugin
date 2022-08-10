@@ -10,4 +10,5 @@ Visit the website for documentation:
 [https://lukaszochmanski.github.io/sdkman-gradle-plugin](https://lukaszochmanski.github.io/sdkman-gradle-plugin/index.html)
 
 it is a fork of the following project:
+
 [https://renatoathaydes.github.io/sdkman-gradle-plugin](https://renatoathaydes.github.io/sdkman-gradle-plugin/index.html)
